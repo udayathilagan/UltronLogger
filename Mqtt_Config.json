@@ -1,0 +1,7 @@
+{
+
+    "Host_Name":"broker.hivemq.com",
+    "Port":1883,
+    "Sub_Topic":"UT/HOME/R1/#",
+    "Passcode":""
+}
