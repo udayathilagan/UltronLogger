@@ -51,8 +51,7 @@ if __name__ == "__main__":
             Date created        : 06/08/2021
             Date last modified  : 06/08/2021
             Python Version      : 3.9.6
-            Program Version     : {}        
-            Email address       : udayathilagan@gmail.com'''.format(Current_version)  
+            Program Version     : {}        '''.format(Current_version)  
             
         logging.warning(program)
         Get_Mqtt_Data()
